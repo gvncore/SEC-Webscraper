@@ -1,0 +1,2 @@
+# SEC-Webscraper
+A python programme that provides code for extracting information out of SEC 10-K filings. The code makes it available to fetch data with pre-made functions (can be used similar to an API) but can also be modified and extended. Currently, the functions can be used to extract financial statements (balance sheets, income statements and cash flow statements) and one can fetch the data of different financial positions. This can either be useful for creating own datasets with specific variables or for making and analysing time series.
